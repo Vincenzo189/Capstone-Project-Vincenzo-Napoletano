@@ -149,4 +149,4 @@ https://www.kaggle.com/datasets/amangarg08/apple-retail-sales-dataset/data
 
 **Vincenzo Napoletano**  
 📧 *vincenzo.napoletano18@gmail.com*   
-🔗 *Linkedin https://www.linkedin.com/in/vincenzo-napoletano-969733183/
+🔗 **Linkedin** https://www.linkedin.com/in/vincenzo-napoletano-969733183/
